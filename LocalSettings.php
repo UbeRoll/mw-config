@@ -6003,3 +6003,4 @@ if (
 
 // Don't need a global here
 unset( $wi );
+wfLoadSkin( 'Splash' );
